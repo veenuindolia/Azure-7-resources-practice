@@ -1,8 +1,8 @@
-### Azure-7-resources-practice
+# Azure-7-resources-practice
 
 ## Terraform code written for 7 Resources
 
-# In this Repo code written for all resources for creating simple Landing zone in which 3 Virtual machines are created
+### In this Repo code written for all resources for creating simple Landing zone in which 3 Virtual machines are created
 
 In this code 2 Vnets are created, In one Vnet, three subnets are created, one for frontend VM, one for backend VM and one for Azure bastion. In second Vnet, one subnet is created for database VM.
 
